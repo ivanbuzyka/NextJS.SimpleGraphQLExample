@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Specify environment variables in the .env (or .env.local files)
+That should be a Sitecore XM Graph QL Endpoint and X-GQL-Token
+Make sure the GraphQL query will work for the items in your Sitecore instance, update if needed
+
 First, run the development server:
 
 ```bash
